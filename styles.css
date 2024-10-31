@@ -1,0 +1,31 @@
+
+body{background-color:black;}
+*{font-family: Figtree;}
+
+h2, p{padding:;
+  color: hsl(0, 0%, 100%)}
+
+.location{margin-top: -1.5rem;
+  color:hsl(47, 88%, 63%)}
+
+
+  .contact {background-color: hsl(0, 0%, 7%);
+border:5px solid;  
+display:block;
+width: 300px}
+
+
+ul{list-style-type: none;
+margin:0; 
+border:2px solid;}
+
+
+li a{color:hsl(0, 0%, 100%);
+  text-align:center;text-decoration: none;
+background-color: hsl(0, 0%, 42%);
+display:block;
+margin: .5rem;
+padding:.5rem;
+border-radius:5px;
+}
+
